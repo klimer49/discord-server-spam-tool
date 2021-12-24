@@ -1,0 +1,16 @@
+{
+    "token": "your token here",
+    "deletechannels": true,
+    "channelspam": true,
+    "rolespam": true,
+    "msgspam": true,
+    "dmmsgspam": true,
+    "banusers": true,
+    "setguildname": true,
+    "guildname": "",
+    "rolename": "",
+    "channelname": "",
+    "dmmsg": "",
+    "channelmsg": "",
+    "command": "+spam"
+}
