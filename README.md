@@ -12,6 +12,9 @@ This tool can:
 
 Also you can enable/disable a functions and change the names in config.json
 
+# important
+Enable ALL intents if you want ban all
+
 # Why Discord.JS 12?
 I don't like 13 version, because it is veryy hard
 
