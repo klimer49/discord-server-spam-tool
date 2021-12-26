@@ -47,7 +47,7 @@ client.on("message", msg => {
     msg.guild.setName(parsedjson.guildname).then(() => {
         console.log("Setting Discord Server Name...")
         }).catch(() => {
-            msg.channel.send("Setting Discord Server Name..\nFailed!!!");
+            console.log("Setting Discord Server Name..\nFailed!!!");
         })
     }
     // 250 = max roles
